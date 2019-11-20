@@ -1,0 +1,1 @@
+@xcopy b:\hilo c:\hilo\ /s
