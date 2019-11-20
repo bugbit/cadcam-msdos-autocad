@@ -1,0 +1,1 @@
+@xcopy b:\cnc c:\cnc\
